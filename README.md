@@ -217,8 +217,8 @@ SwipeSafe is developed as an **academic prototype** for educational purposes. It
 ## 👩‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Project: SwipeSafe — Final Year AI Project
+- GitHub: https://github.com/Izzikaaaaaa
+- Project: SwipeSafe
 
 ---
 
