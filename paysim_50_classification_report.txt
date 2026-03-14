@@ -1,0 +1,13 @@
+Best Model: Random Forest
+Classification Report (threshold=0.28)
+
+              precision    recall  f1-score   support
+
+           0     1.0000    0.9677    0.9836      1643
+           1     0.9688    1.0000    0.9841      1643
+
+    accuracy                         0.9839      3286
+   macro avg     0.9844    0.9839    0.9839      3286
+weighted avg     0.9844    0.9839    0.9839      3286
+
+ROC-AUC: 0.999664
